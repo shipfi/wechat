@@ -1,6 +1,6 @@
 {
-    "name": "overtrue/wechat",
-    "description": "微信SDK",
+    "name": "shipfi/wechat",
+    "description": "微信SDK-appSerect改版",
     "keywords": [
         "wechat",
         "weixin",
