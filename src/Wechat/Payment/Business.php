@@ -36,7 +36,7 @@ class Business extends MagicAttributes
      * 
      * @var array
      */
-    protected $valids = array('appid', 'appsecret', 'mch_id', 'mch_key');
+    protected $valids = array('appid', 'mch_id', 'mch_key');
 
     /**
      * 商户证书 cert.
